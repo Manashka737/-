@@ -1,0 +1,8 @@
+C:\Users\Пользователь\source\repos\Кулькулятор\Кулькулятор\x64\Debug\Кулькулятор.vcxproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Кулькулятор\Кулькулятор\x64\Debug\Кулькулятор.Face.resources
+C:\Users\Пользователь\source\repos\Кулькулятор\Кулькулятор\x64\Debug\Кулькулятор.vcxproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Кулькулятор\Кулькулятор\x64\Debug\Кулькулятор.MyForm.resources
+C:\Users\Пользователь\Desktop\Кулькулятор\Кулькулятор\x64\Debug\Кулькулятор.vcxproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Кулькулятор\Кулькулятор\x64\Debug\Кулькулятор.Face.resources
+C:\Users\Пользователь\Desktop\Кулькулятор\Кулькулятор\x64\Debug\Кулькулятор.MyForm.resources
+C:\Users\Пользователь\Desktop\Кулькулятор\Кулькулятор\x64\Debug\Кулькулятор.vcxproj.GenerateResource.cache

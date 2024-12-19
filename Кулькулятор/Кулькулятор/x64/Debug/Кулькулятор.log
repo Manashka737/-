@@ -1,0 +1,25 @@
+﻿  Face.cpp
+C:\Users\Пользователь\Desktop\Кулькулятор\Кулькулятор\Face.h(92,21): warning C4244: +=: преобразование "const _Ty2" в "__int64", возможна потеря данных
+C:\Users\Пользователь\Desktop\Кулькулятор\Кулькулятор\Face.h(92,21): warning C4244:         with
+C:\Users\Пользователь\Desktop\Кулькулятор\Кулькулятор\Face.h(92,21): warning C4244:         [
+C:\Users\Пользователь\Desktop\Кулькулятор\Кулькулятор\Face.h(92,21): warning C4244:             _Ty2=double
+C:\Users\Пользователь\Desktop\Кулькулятор\Кулькулятор\Face.h(92,21): warning C4244:         ]
+  (компиляция исходного файла "Face.cpp")
+  
+  MyForm.cpp
+  main.cpp
+C:\Users\Пользователь\Desktop\Кулькулятор\Кулькулятор\Face.h(92,21): warning C4244: +=: преобразование "const _Ty2" в "__int64", возможна потеря данных
+C:\Users\Пользователь\Desktop\Кулькулятор\Кулькулятор\Face.h(92,21): warning C4244:         with
+C:\Users\Пользователь\Desktop\Кулькулятор\Кулькулятор\Face.h(92,21): warning C4244:         [
+C:\Users\Пользователь\Desktop\Кулькулятор\Кулькулятор\Face.h(92,21): warning C4244:             _Ty2=double
+C:\Users\Пользователь\Desktop\Кулькулятор\Кулькулятор\Face.h(92,21): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Пользователь\Desktop\Кулькулятор\Кулькулятор\main.cpp(57,26): warning C4244: +=: преобразование "const _Ty2" в "__int64", возможна потеря данных
+C:\Users\Пользователь\Desktop\Кулькулятор\Кулькулятор\main.cpp(57,26): warning C4244:         with
+C:\Users\Пользователь\Desktop\Кулькулятор\Кулькулятор\main.cpp(57,26): warning C4244:         [
+C:\Users\Пользователь\Desktop\Кулькулятор\Кулькулятор\main.cpp(57,26): warning C4244:             _Ty2=double
+C:\Users\Пользователь\Desktop\Кулькулятор\Кулькулятор\main.cpp(57,26): warning C4244:         ]
+  Создание кода...
+  Face.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Кулькулятор.vcxproj -> C:\Users\Пользователь\Desktop\Кулькулятор\x64\Debug\Кулькулятор.exe
